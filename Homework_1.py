@@ -1,4 +1,4 @@
-# Homework - Python, NumPy, Git/GitHub, Linear Algebra, and Plotting
+# Homework_1 - Python, NumPy, Git/GitHub, Linear Algebra, and Plotting
 
 # **Student:** FIYINFOLUWA ABISOYE (Phoenix)
 # **Date:** January 28th 2025 / 2026
