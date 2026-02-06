@@ -6,12 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="17f198cb-7fab-40e6-a44a-a12767321fe2" name="Changes" comment="1. Git &amp; GitHub setup (done outside notebook)&#10;2. BASIC LIST OPERATIONS&#10;3. PRIME NUMBERS &#10;4. 3-D NUMPY ARRAY&#10;5. SOLVING A SYSTEM OF LINEAR EQUATION with Numpy&#10;6. Plotting the function y = 0.1x³ − x² + 5&#10;7–10. Git workflow (to be done in terminal / VS Code)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/fabiso1/PycharmProjects/Homework1_LSU" value="38xLWeMSL8K5bw93FdnDNGijSYa" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,8 +79,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
-        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -92,6 +96,7 @@
       <workItem from="1769866981169" duration="177000" />
       <workItem from="1769923834684" duration="127000" />
       <workItem from="1770151071502" duration="72000" />
+      <workItem from="1770414413957" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="1. Git &amp; GitHub setup (done outside notebook)&#10;2. BASIC LIST OPERATIONS&#10;3. PRIME NUMBERS &#10;4. 3-D NUMPY ARRAY&#10;5. SOLVING A SYSTEM OF LINEAR EQUATION with Numpy&#10;6. Plotting the function y = 0.1x³ − x² + 5&#10;7–10. Git workflow (to be done in terminal / VS Code)">
       <option name="closed" value="true" />
@@ -124,5 +129,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Homework1_LSU$Homework_1.coverage" NAME="Homework_1 Coverage Results" MODIFIED="1770151075584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
