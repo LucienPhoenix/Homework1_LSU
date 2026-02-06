@@ -1,15 +1,9 @@
-# Homework - Python, NumPy, Git/GitHub, Linear Algebra, Plotting
+# Homework - Python, NumPy, Git/GitHub, Linear Algebra, and Plotting
 
-# **Student:** Lucien
-# **Date:** January 2025 / 2026
+# **Student:** Fiyinfoluwa Abisoye
+# **Date:** January 28th 2026
 
-## 1. Git & GitHub setup (done outside notebook)
-
-# - Created repository on GitHub (e.g. `python-homework-2025` or similar)
-# - Cloned it locally using VS Code
-# - Created branch: `feature/homework-1`
-# - Working in this branch → all code below
-
+## 1. Git & GitHub setup pycharm editor
 
 # ==============================================================
 ### 2. BASIC LIST OPERATIONS
